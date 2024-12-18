@@ -1,6 +1,6 @@
 <strong>Project Name:</strong> Covid Deaths
 
-<strong>Objective:</strong> Explor Covid data to determine correlation between infection rate and death rate by location.
+<strong>Objective:</strong> Explore Covid data to determine correlation between infection rate and death rate by location.
 
 <strong>Technologies Used:</strong> 
 * Microsoft Excel
